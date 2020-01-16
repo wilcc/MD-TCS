@@ -1,6 +1,7 @@
 # Terminal Cheat Sheet
 
 ![hi](https://i.redd.it/91rqnp1xp1741.jpg)
+
 __Ls__-list; *a* *l* *al*
 ___
 __Cd__-change directory (location of file)
